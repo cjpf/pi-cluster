@@ -5,7 +5,7 @@ all:
       hosts:
         gateway:
           hostname: pi-cluster-gateway
-          ansible_host: 192.168.1.11
+          ansible_host: 192.168.1.178
           ip: 10.0.0.1
           mac: e4:5f:01:28:36:98
         pimaster:
